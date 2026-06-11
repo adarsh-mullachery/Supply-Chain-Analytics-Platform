@@ -1,5 +1,6 @@
-# Jupyter
-.ipynb_checkpoints
-
+# Jupyter checkpoints
+.ipynb_checkpoints/
 notebook/.ipynb_checkpoints/
+
+# Utils folder inside notebook
 notebook/utils/
